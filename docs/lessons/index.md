@@ -7,3 +7,4 @@ title: "수업 기록"
 
 - [샘플 · 카페에서 주문하기]({{ '/lessons/sample-cafe.html' | relative_url }})
 - [10월 26일 · 비교급 as ~ as / than]({{ '/lessons/2026-10-26-comparatives.html' | relative_url }})
+- [English conversation]({{ '/lessons/english_conversation_a1b2.html' | relative_url }})
